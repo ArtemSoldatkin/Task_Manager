@@ -2,8 +2,5 @@
 #Node-modules
 node_modules/
 
-#Build
-build/
-
 #Gitignore
 .gitignore
